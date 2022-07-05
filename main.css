@@ -76,6 +76,10 @@ td {
     text-align: center;
 }
 
+td[ scope="col"]{
+    font-weight: bold;
+}
+
 label{
     display: block;
     font-size: 15px;
